@@ -1,0 +1,170 @@
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csprojAssemblyReference.cache
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\catur\Desktop\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\joseph\Desktop\Csharp Arduino Control 8 LEDs\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csprojAssemblyReference.cache
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs(7月底test)\Csharp Arduino Control 8 LEDs\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csprojAssemblyReference.cache
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\Csharp  Control 8 LEDs check(7月底test)\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\joseph\Desktop\DC PowerCC Control Box GUI control interface\Csharp Arduino Control 8 LEDs check\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC Control Box GUI control interface_0724\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\PowerCC Control Box GUI control interface_0725\Csharp Arduino Control 8 LEDs check_7_14\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0727\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0731\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csprojAssemblyReference.cache
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\joseph\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\james.ch.chen\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC 8_node_GUI control _0802\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csprojAssemblyReference.cache
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+G:\PowerCC 8_node_GUI control _0803\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe.config
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\bin\Debug\Csharp Arduino Control 8 LEDs.pdb
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.AssemblyReference.cache
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Form1.resources
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp_Arduino_Control_8_LEDs.Properties.Resources.resources
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.GenerateResource.cache
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.csproj.CoreCompileInputs.cache
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.exe
+C:\Users\LAB523-1\Desktop\PowerCC_8_Nodes_control_version1.0.0\PowerCC_III_8_nodes_control_C#_Arduino\obj\Debug\Csharp Arduino Control 8 LEDs.pdb
